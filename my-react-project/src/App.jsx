@@ -5,6 +5,7 @@ import Counter from "./Counter"
 import MyComponent from "./MyComponent"
 import Car from "./Car"
 import Fruits from "./Fruits"
+import Books from "./Books"
 function App(){
 
   return (
@@ -16,6 +17,7 @@ function App(){
 <MyComponent/>
 <Car/>
 <Fruits/>
+<Books/>
       
     </>
   )
